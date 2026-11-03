@@ -1,3 +1,9 @@
+backref version 2026-11-03 v. 1.46
+
+2026-11-03 Ulrike Fischer
+	* backref has been moved out of the hyperref bundle and is now maintained at
+https://github.com/LaTeX-Package-Repositories/backref
+
 2026-10-31 Ulrike Fischer
 	* nameref.dtx: extend caption patch, issue #433
   

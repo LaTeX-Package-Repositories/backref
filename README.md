@@ -3,7 +3,7 @@
 
 A package  to provide links back from  bibliography to the main text; these are hypertext links after using `hyperref`.
 
-Version: 2025-06-21 v1.45
+Version: 2026-11-03 v1.46
 
 ## Issues
 
