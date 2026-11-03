@@ -1,0 +1,291 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+(test01.brf)
+\tf@brf=\write...
+Completed box being shipped out [1]
+\vbox(633.0+0.0)x407.0, direction TLT
+.\hbox(0.0+0.0)x0.0, direction TLT
+.\vbox(0.0+0.0)x0.0, glue set - 14.99626fil, direction TLT
+..\kern0.0
+..\kern16.0
+..\kern-1.00374
+..\hbox(0.0+0.0)x0.0, glue set - 60.99626fil, direction TLT
+...\kern0.0
+...\kern62.0
+...\kern-1.00374
+...\pdfdest name{page.1} xyz
+...\penalty 10000
+...\glue 0.0 plus 1.0fil minus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue(\lineskip) 0.0
+.\vbox(633.0+0.0)x407.0, direction TLT
+..\glue 16.0
+..\vbox(617.0+0.0)x345.0, shifted 62.0, direction TLT
+...\vbox(12.0+0.0)x345.0, glue set 12.0fil, direction TLT
+....\glue 0.0 plus 1.0fil
+....\hbox(0.0+0.0)x345.0, direction TLT
+.....\hbox(0.0+0.0)x345.0, direction TLT
+...\glue 25.0
+...\glue(\lineskip) 0.0
+...\vbox(550.0+0.0)x345.0, glue set 432.45581fil, direction TLT
+....\write-{}
+....\pdfdest name{Doc-Start} xyz
+....\glue(\topskip) 2.5
+....\hbox(7.5+2.5)x345.0, glue set 297.22fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(0.0+0.0)x15.0, direction TLT
+.....\TU/lmr/m/n/10 [
+.....\hbox(6.66+0.0)x5.0, direction TLT
+......\pdfstartlink(*+*)x* attr{/Border[0 0 1]/H/I/C[0 1 0]} action goto name{cite.foo}
+......\TU/lmr/m/n/10 1
+......\pdfendlink
+.....\TU/lmr/m/n/10 ,
+.....\penalty 1000
+.....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.....\hbox(6.66+0.0)x5.0, direction TLT
+......\pdfstartlink(*+*)x* attr{/Border[0 0 1]/H/I/C[0 1 0]} action goto name{cite.bar}
+......\TU/lmr/m/n/10 2
+......\pdfendlink
+.....\TU/lmr/m/n/10 ,
+.....\penalty 1000
+.....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.....\hbox(6.66+0.22)x5.0, direction TLT
+......\pdfstartlink(*+*)x* attr{/Border[0 0 1]/H/I/C[0 1 0]} action goto name{cite.hole}
+......\TU/lmr/m/n/10 3
+......\pdfendlink
+.....\TU/lmr/m/n/10 ]
+.....\write1{\@writefile{brf}{\backcite{foo,bar,hole}{{\thepage }{(document)}{Doc-Start}}}}
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.42
+....\hbox(10.08+0.1728)x345.0, glue set 269.19846fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(0.0+0.0)x0.0, direction TLT
+......\glue 0.0
+.....\hbox(0.0+0.0)x0.0, direction TLT
+......\kern0.0
+......\penalty 10000
+......\hbox(0.0+0.0)x0.0, direction TLT
+.......\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
+........\pdfdest name{section*.1} xyz
+........\penalty 10000
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\TU/lmr/bx/n/14.4 R
+.....\TU/lmr/bx/n/14.4 e
+.....\TU/lmr/bx/n/14.4 f
+.....\discretionary (penalty 50)
+......< \TU/lmr/bx/n/14.4 -
+.....\TU/lmr/bx/n/14.4 e
+.....\TU/lmr/bx/n/14.4 r
+.....\discretionary (penalty 50)
+......< \TU/lmr/bx/n/14.4 -
+.....\TU/lmr/bx/n/14.4 e
+.....\TU/lmr/bx/n/14.4 n
+.....\TU/lmr/bx/n/14.4 c
+.....\TU/lmr/bx/n/14.4 e
+.....\TU/lmr/bx/n/14.4 s
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue -9.913 plus -0.86198
+....\glue 5.913 plus -0.13802 minus -1.0
+....\pdfdest name{cite.foo} xyz
+....\penalty 10000
+....\glue -5.913 plus 0.13802 minus 1.0
+....\glue 5.913 plus -0.13802 minus -1.0
+....\glue(\parskip) 4.0 plus 2.0 minus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 4.3272
+....\hbox(7.5+2.5)x329.44, glue set 257.91003fil, shifted 15.56, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(7.5+2.5)x0.0, direction TLT
+......\glue 0.0
+......\glue -10.56
+......\glue -5.0
+......\hbox(7.5+2.5)x10.56, direction TLT
+.......\glue 0.0 plus 1.0fil
+.......\TU/lmr/m/n/10 [
+.......\TU/lmr/m/n/10 1
+.......\TU/lmr/m/n/10 ]
+......\glue 5.0
+.....\penalty 0
+.....\TU/lmr/m/n/10 f
+.....\TU/lmr/m/n/10 o
+.....\kern0.28 (font)
+.....\TU/lmr/m/n/10 o
+.....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.....\glue 1.1 plus 3.30002 minus 0.70007
+.....\TU/lmr/m/n/10 [
+.....\TU/lmr/m/n/5 C
+.....\TU/lmr/m/n/5 i
+.....\TU/lmr/m/n/5 t
+.....\TU/lmr/m/n/5 e
+.....\TU/lmr/m/n/5 d
+.....\glue(\spaceskip) 2.36 plus 1.18 minus 0.78667
+.....\TU/lmr/m/n/5 i
+.....\TU/lmr/m/n/5 n
+.....\glue(\spaceskip) 2.36 plus 1.18 minus 0.78667
+.....\TU/lmr/m/n/5 p
+.....\TU/lmr/m/n/5 a
+.....\TU/lmr/m/n/5 g
+.....\TU/lmr/m/n/5 e
+.....\penalty 10000
+.....\glue(\spaceskip) 2.36 plus 1.18 minus 0.78667
+.....\pdfstartlink(*+*)x* attr{/Border[0 0 1]/H/I/C[1 0 0]} action goto name{page.1}
+.....\TU/lmr/m/n/5 1
+.....\pdfendlink
+.....\TU/lmr/m/n/5 .
+.....\TU/lmr/m/n/10 ]
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -51
+....\glue 4.0 plus 2.0 minus 1.0
+....\pdfdest name{cite.bar} xyz
+....\penalty 10000
+....\glue -4.0 plus -2.0 minus -1.0
+....\glue 4.0 plus 2.0 minus 1.0
+....\glue(\parskip) 4.0 plus 2.0 minus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 2.0
+....\hbox(7.5+2.5)x329.44, glue set 256.77002fil, shifted 15.56, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(7.5+2.5)x0.0, direction TLT
+......\glue 0.0
+......\glue -10.56
+......\glue -5.0
+......\hbox(7.5+2.5)x10.56, direction TLT
+.......\glue 0.0 plus 1.0fil
+.......\TU/lmr/m/n/10 [
+.......\TU/lmr/m/n/10 2
+.......\TU/lmr/m/n/10 ]
+......\glue 5.0
+.....\penalty 0
+.....\TU/lmr/m/n/10 b
+.....\TU/lmr/m/n/10 a
+.....\TU/lmr/m/n/10 r
+.....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.....\glue 1.1 plus 3.30002 minus 0.70007
+.....\TU/lmr/m/n/10 [
+.....\TU/lmr/m/n/5 C
+.....\TU/lmr/m/n/5 i
+.....\TU/lmr/m/n/5 t
+.....\TU/lmr/m/n/5 e
+.....\TU/lmr/m/n/5 d
+.....\glue(\spaceskip) 2.36 plus 1.18 minus 0.78667
+.....\TU/lmr/m/n/5 i
+.....\TU/lmr/m/n/5 n
+.....\glue(\spaceskip) 2.36 plus 1.18 minus 0.78667
+.....\TU/lmr/m/n/5 p
+.....\TU/lmr/m/n/5 a
+.....\TU/lmr/m/n/5 g
+.....\TU/lmr/m/n/5 e
+.....\penalty 10000
+.....\glue(\spaceskip) 2.36 plus 1.18 minus 0.78667
+.....\pdfstartlink(*+*)x* attr{/Border[0 0 1]/H/I/C[1 0 0]} action goto name{page.1}
+.....\TU/lmr/m/n/5 1
+.....\pdfendlink
+.....\TU/lmr/m/n/5 .
+.....\TU/lmr/m/n/10 ]
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -51
+....\glue 4.0 plus 2.0 minus 1.0
+....\pdfdest name{cite.hole} xyz
+....\penalty 10000
+....\glue -4.0 plus -2.0 minus -1.0
+....\glue 4.0 plus 2.0 minus 1.0
+....\glue(\parskip) 4.0 plus 2.0 minus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 2.0
+....\hbox(7.5+2.5)x329.44, glue set 253.47002fil, shifted 15.56, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(7.5+2.5)x0.0, direction TLT
+......\glue 0.0
+......\glue -10.56
+......\glue -5.0
+......\hbox(7.5+2.5)x10.56, direction TLT
+.......\glue 0.0 plus 1.0fil
+.......\TU/lmr/m/n/10 [
+.......\TU/lmr/m/n/10 3
+.......\TU/lmr/m/n/10 ]
+......\glue 5.0
+.....\penalty 0
+.....\TU/lmr/m/n/10 h
+.....\TU/lmr/m/n/10 o
+.....\TU/lmr/m/n/10 l
+.....\TU/lmr/m/n/10 e
+.....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.....\glue 1.1 plus 3.30002 minus 0.70007
+.....\TU/lmr/m/n/10 [
+.....\TU/lmr/m/n/5 C
+.....\TU/lmr/m/n/5 i
+.....\TU/lmr/m/n/5 t
+.....\TU/lmr/m/n/5 e
+.....\TU/lmr/m/n/5 d
+.....\glue(\spaceskip) 2.36 plus 1.18 minus 0.78667
+.....\TU/lmr/m/n/5 i
+.....\TU/lmr/m/n/5 n
+.....\glue(\spaceskip) 2.36 plus 1.18 minus 0.78667
+.....\TU/lmr/m/n/5 p
+.....\TU/lmr/m/n/5 a
+.....\TU/lmr/m/n/5 g
+.....\TU/lmr/m/n/5 e
+.....\penalty 10000
+.....\glue(\spaceskip) 2.36 plus 1.18 minus 0.78667
+.....\pdfstartlink(*+*)x* attr{/Border[0 0 1]/H/I/C[1 0 0]} action goto name{page.1}
+.....\TU/lmr/m/n/5 1
+.....\pdfendlink
+.....\TU/lmr/m/n/5 .
+.....\TU/lmr/m/n/10 ]
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -51
+....\glue 10.0 plus 3.0 minus 5.0
+....\glue 0.0 plus 1.0fil
+....\glue 0.0
+....\glue 0.0 plus 0.0001fil
+...\glue(\baselineskip) 23.34
+...\hbox(6.66+0.0)x345.0, direction TLT
+....\hbox(6.66+0.0)x345.0, glue set 170.0fil, direction TLT
+.....\glue 0.0 plus 1.0fil
+.....\TU/lmr/m/n/10 1
+.....\glue 0.0 plus 1.0fil
+.\kern0.0
+(test01.aux)
+Package rerunfilecheck Info: File `test01.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `test01.brf' has not changed.
+(rerunfilecheck)             Checksum: DD122CF92471472052A2E9B40CE2FE7B;53.
+***************
+Compilation 1 of test file completed with exit status 0
+Compilation 2 of test file completed with exit status 0

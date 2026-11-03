@@ -1,0 +1,25 @@
+\input{regression-test}
+\documentclass{article}
+\usepackage[backref=page]{hyperref}
+
+\renewcommand*{\backref}[1]{}
+\renewcommand*{\backrefalt}[4]{[{\tiny%
+      \ifcase #1 Not cited%
+      \or Cited in page~#2.%
+      \else Cited in pages #2.%
+      \fi%
+}]}
+
+\begin{document}  
+\START\showoutput
+\cite{foo,bar,hole}
+
+\begin{thebibliography}{9}
+\bibitem{foo} foo
+
+\bibitem{bar} bar
+
+\bibitem{hole} hole
+
+\end{thebibliography}  
+\end{document}
