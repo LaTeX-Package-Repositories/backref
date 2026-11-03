@@ -1,5 +1,6 @@
 build/*
 backref.pdf
+backref-ctan.zip
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
